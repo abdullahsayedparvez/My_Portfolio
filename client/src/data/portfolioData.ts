@@ -5,7 +5,7 @@ export const personalInfo = {
   experience: "1 Year",
   languages: "English, Hindi",
   degree: "Bachelor's Degree (2024)",
-  bio: "Passionate Data Engineer and Backend Developer with expertise in building scalable ETL pipelines and robust backend systems. At Hikmah Technologies, I build ETL pipelines and store data in MinIO and parquet files using MageAI. I enjoy transforming raw data into actionable insights and creating efficient solutions that drive business growth.",
+  bio: "Passionate Data Engineer and Backend Developer with expertise in building scalable ETL pipelines and robust backend systems. I enjoy transforming raw data into actionable insights and creating efficient solutions that drive business growth.",
   email: "abdullahsyed940@gmail.com",
   phone: "+91 9136786290",
   profileImage: "https://media.licdn.com/dms/image/v2/D4D03AQEEDkN-8ZthvQ/profile-displayphoto-shrink_400_400/B4DZWlqyGuH4Ag-/0/1742241211458?e=1757548800&v=beta&t=eLa33kleUdVS9glMflEve3iaimHB7N-cdcoYA8a7c3A"

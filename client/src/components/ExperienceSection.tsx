@@ -47,10 +47,22 @@ export default function ExperienceSection() {
         </div>
 
         {/* Company Information */}
-        <div className="bg-gradient-to-r from-primary to-blue-600 text-white p-8 rounded-xl mb-12 text-center">
-          <h3 className="text-2xl font-bold mb-2">{experience.company}</h3>
-          <p className="text-blue-100 mb-2">{experience.duration}</p>
-          <p className="text-blue-100">{experience.location}</p>
+        <div className="bg-gradient-to-r from-primary to-blue-600 text-white p-8 rounded-xl mb-12">
+          <div className="text-center mb-6">
+            <h3 className="text-2xl font-bold mb-2">{experience.company}</h3>
+            <p className="text-blue-100 mb-2">{experience.duration}</p>
+            <p className="text-blue-100">{experience.location}</p>
+          </div>
+          <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6">
+            <h4 className="text-lg font-semibold mb-3 flex items-center">
+              <i className="fas fa-cogs mr-3"></i>
+              Key Responsibilities
+            </h4>
+            <p className="text-blue-50 leading-relaxed">
+              At Hikmah Technologies, I build comprehensive ETL pipelines and store data in MinIO and Parquet files using MageAI. 
+              I focus on creating efficient data processing workflows that ensure reliable data storage and optimal query performance.
+            </p>
+          </div>
         </div>
 
         {/* Projects Grid */}
