@@ -1,0 +1,73 @@
+Build a single-page portfolio website using React with Vite. The site should have 5 sections: Home, About, Skills, Experience, and Contact.
+
+General Requirements:
+Do not use any backend or database, all data should be in the frontend (can be inside a JSON or object).
+
+The site should be a single page, but scrollable with anchor links or nav menu to each section.
+
+Style the site to be professional and clean, using basic CSS or any minimal framework like Tailwind CSS if you prefer.
+
+Use React functional components, break the code into reusable components where suitable.
+
+1. Home Section
+Display name: Abdullah Sayed
+
+Title: "I'm a Data Engineer, Backend Developer"
+
+Show icons for LinkedIn, Facebook, GitHub, each linked to "#" (or use FontAwesome icons).
+
+2. About Section
+Short introduction about Abdullah Sayed.
+
+Location: Mumbai, India
+
+Experience: 1 Year
+
+Languages: English, Hindi
+
+Degree: Bachelor's Degree (2024)
+
+3. Skills Section
+Group the skills into categories:
+
+ETL Tools: Airflow, MageAI
+
+Programming Languages: Python, SQL, CSS
+
+Frameworks & Libraries: Pandas, Django, FastAPI
+
+Web Scraping: BeautifulSoup, Selenium, Playwright
+
+Databases: MongoDB, MySQL, PostgreSQL
+
+Cloud & DevOps: AWS (Lambda, EC2, ECS, S3), Docker, CI/CD
+
+Tools & Collaboration: GitHub
+
+4. Experience Section
+Company: Hikmah Technologies
+
+Duration: May 2024 – May 2025
+
+Location: Seawoods, Navi Mumbai
+
+Projects:
+
+Ansaar.in: Role – Data Engineer
+Description – Built ETL pipelines using MageAI, storing data in MINIO, file system, and Parquet format.
+Link: https://www.ansaar.in/
+
+AuditEasePro: Role – Backend Developer
+Description – Built APIs with Django and handled database logic.
+
+Mehram: Role – Backend Developer
+Description – Worked on database recovery and backend logic.
+
+Resumebuilder: Role – Backend Developer
+Description – Built APIs and worked on frontend styling with CSS.
+
+Zcreation: Role – Full Stack Developer
+Description – Built website to display scarf products.
+
+5. Contact Section
+Just leave a basic contact form or static contact information (email or phone placeholder).
