@@ -5,16 +5,16 @@ export const personalInfo = {
   experience: "1 Year",
   languages: "English, Hindi",
   degree: "Bachelor's Degree (2024)",
-  bio: "Passionate Data Engineer and Backend Developer with expertise in building scalable ETL pipelines and robust backend systems. I enjoy transforming raw data into actionable insights and creating efficient solutions that drive business growth.",
-  email: "abdullah.sayed@email.com",
-  phone: "+91 98765 43210",
-  profileImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=300"
+  bio: "Passionate Data Engineer and Backend Developer with expertise in building scalable ETL pipelines and robust backend systems. At Hikmah Technologies, I build ETL pipelines and store data in MinIO and parquet files using MageAI. I enjoy transforming raw data into actionable insights and creating efficient solutions that drive business growth.",
+  email: "abdullahsyed940@gmail.com",
+  phone: "+91 9136786290",
+  profileImage: "https://media.licdn.com/dms/image/v2/D4D03AQEEDkN-8ZthvQ/profile-displayphoto-shrink_400_400/B4DZWlqyGuH4Ag-/0/1742241211458?e=1757548800&v=beta&t=eLa33kleUdVS9glMflEve3iaimHB7N-cdcoYA8a7c3A"
 };
 
 export const socialLinks = {
-  linkedin: "#",
-  facebook: "#",
-  github: "#"
+  linkedin: "https://www.linkedin.com/in/-sayed-abdullah-work/",
+  facebook: "https://www.facebook.com/",
+  github: "https://github.com/abdullahsayedparvez"
 };
 
 export const skills = {
@@ -37,7 +37,7 @@ export const projects = [
     id: 1,
     name: "Ansaar.in",
     role: "Data Engineer",
-    description: "Built ETL pipelines using MageAI, storing data in MINIO, file system, and Parquet format.",
+    description: "Built ETL pipelines using MageAI, storing data in MinIO, file system, and Parquet format.",
     link: "https://www.ansaar.in/",
     icon: "fas fa-database",
     color: "primary"

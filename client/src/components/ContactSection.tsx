@@ -203,7 +203,7 @@ export default function ContactSection() {
                   value={formData.subject}
                   onChange={handleInputChange}
                   className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent outline-none transition-all"
-                  placeholder="Project Discussion"
+                  placeholder="Subject"
                   disabled={isSubmitting}
                 />
               </div>
@@ -219,7 +219,7 @@ export default function ContactSection() {
                   value={formData.message}
                   onChange={handleInputChange}
                   className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent outline-none transition-all resize-none"
-                  placeholder="Tell me about your project..."
+                  placeholder="Your message..."
                   disabled={isSubmitting}
                 />
               </div>
