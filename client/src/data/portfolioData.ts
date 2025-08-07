@@ -65,7 +65,7 @@ export const projects = [
     name: "Resume Builder",
     role: "Backend Developer",
     description: "Built APIs and worked on frontend styling with CSS for dynamic resume generation platform.",
-    link: null,
+    link: "https://resume.glitchdrift.com/",
     icon: "fas fa-file-alt",
     color: "orange-500"
   },
@@ -73,7 +73,7 @@ export const projects = [
     id: 5,
     name: "Zcreation",
     role: "Full Stack Developer",
-    description: "Built complete website to display scarf products with modern e-commerce functionality.",
+    description: "Website to display scarf products with modern e-commerce functionality. Currently in progress.",
     link: null,
     icon: "fas fa-shopping-bag",
     color: "pink-500"
