@@ -26,7 +26,7 @@ export default function Portfolio() {
                  className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="https://www.facebook.com/" 
+              <a href="https://www.facebook.com/abdullah.syed.parvez/" 
                  target="_blank"
                  rel="noopener noreferrer"
                  className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">

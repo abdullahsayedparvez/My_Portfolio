@@ -13,7 +13,7 @@ export const personalInfo = {
 
 export const socialLinks = {
   linkedin: "https://www.linkedin.com/in/-sayed-abdullah-work/",
-  facebook: "https://www.facebook.com/",
+  facebook: "https://www.facebook.com/abdullah.syed.parvez/",
   github: "https://github.com/abdullahsayedparvez"
 };
 

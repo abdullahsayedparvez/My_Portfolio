@@ -97,6 +97,10 @@
     @apply w-full left-0;
   }
 
+  .nav-link.bg-primary\/10::after {
+    @apply w-full left-0;
+  }
+
   .skill-tag {
     @apply transition-all duration-300 ease-in-out cursor-pointer;
   }
