@@ -20,13 +20,22 @@ export default function Portfolio() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="flex justify-center space-x-6 mb-6">
-              <a href="#" className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">
+              <a href="https://www.linkedin.com/in/-sayed-abdullah-work/" 
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="#" className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">
+              <a href="https://www.facebook.com/" 
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">
                 <i className="fab fa-facebook"></i>
               </a>
-              <a href="#" className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">
+              <a href="https://github.com/abdullahsayedparvez" 
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="text-white hover:text-blue-300 transition-colors duration-300 text-xl">
                 <i className="fab fa-github"></i>
               </a>
             </div>

@@ -13,7 +13,7 @@ export default function HeroSection() {
   };
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center gradient-bg pt-16">
+    <section id="home" className="min-h-screen flex items-center justify-center hero-bg pt-16">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="animate-fade-in">
           <div className="mb-8 flex justify-center">
@@ -36,14 +36,20 @@ export default function HeroSection() {
           <div className="flex justify-center space-x-6 mb-8 animate-bounce-in" 
                style={{ animationDelay: "0.4s" }}>
             <a href={socialLinks.linkedin} 
+               target="_blank"
+               rel="noopener noreferrer"
                className="text-white hover:text-blue-200 transition-colors duration-300 text-2xl">
               <i className="fab fa-linkedin"></i>
             </a>
             <a href={socialLinks.facebook} 
+               target="_blank"
+               rel="noopener noreferrer"
                className="text-white hover:text-blue-200 transition-colors duration-300 text-2xl">
               <i className="fab fa-facebook"></i>
             </a>
             <a href={socialLinks.github} 
+               target="_blank"
+               rel="noopener noreferrer"
                className="text-white hover:text-blue-200 transition-colors duration-300 text-2xl">
               <i className="fab fa-github"></i>
             </a>
